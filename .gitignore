@@ -1,0 +1,6 @@
+.env
+my_project_1/
+requirements-dev.in
+requirements.in
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
